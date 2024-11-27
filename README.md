@@ -44,6 +44,11 @@
 
 安装及使用：https://233boy.com/sing-box/sing-box-script/
 
+本仓库修改版的安装命令：
+```bash
+curl -fsSL https://raw.githubusercontent.com/SirlyDreamer/sing-box-manager/refs/heads/main/install.sh | bash -
+```
+
 # 帮助
 
 使用：`sing-box help`
